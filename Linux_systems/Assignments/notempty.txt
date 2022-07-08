@@ -1,0 +1,4 @@
+emptyspace
+space
+tabs
+nothing
